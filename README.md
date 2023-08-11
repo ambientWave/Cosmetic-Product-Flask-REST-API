@@ -9,3 +9,4 @@
 
 ## Technology
 - Python, werkzeug, flask
+- HTTP, REST API, JSON
