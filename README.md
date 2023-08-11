@@ -1,5 +1,5 @@
 # Interacting with a Collection of Cosmetic Products Using Flask and REST API
-This application can be used to manipulate a collection of cosmetic products by applying the CRUD operations through REST API. This is achieved using Flask framework to expose specific endpoints.
+This application can be used to manipulate a collection of cosmetic products by applying the CRUD operations through REST API. This is achieved using Flask framework to expose specific endpoints and one of three database engines (SQLite, PostgreSQL or MongoDB).
 
 ## Screenshots
 ![Image1](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png)
