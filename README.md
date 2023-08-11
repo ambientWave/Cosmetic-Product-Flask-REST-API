@@ -5,13 +5,13 @@ This application can be used to manipulate a collection of cosmetic products by 
 1. The JSON returned by the backend app after a HTTP request using GET method
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Frontend-Backend-Customization/main/custom/main.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png">
 </picture>
 
 2. One adds an item to the database by sending a HTTP request using POST method and putting the details of the added product in JSON format inside the body of the request
 
 <picture>
- <img alt="Screenshot2" src="https://raw.githubusercontent.com/ambientWave/Odoo-Frontend-Backend-Customization/main/custom/main2.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image2.png">
 </picture>
 
 3. The product collection after addition
