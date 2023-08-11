@@ -15,7 +15,7 @@
 
 
 
-### `python run`
+### `flask run`
 
 Once.
 
