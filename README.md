@@ -8,5 +8,6 @@
 ![Image5](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image5.png)
 
 ## Technology
-- Python, werkzeug, flask
+- Python, Werkzeug, Flask
 - HTTP, REST API, JSON
+- SQLite, PostgreSQL, MongoDB
