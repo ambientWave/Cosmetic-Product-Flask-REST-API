@@ -7,6 +7,18 @@
 ![Image4](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image4.png)
 ![Image5](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image5.png)
 
+<picture>
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png">
+</picture>
+
+## Instructions for Running the Application
+
+
+
+### ``
+
+Once.
+
 ## Technology
 - Python, Werkzeug, Flask
 - HTTP, REST API, JSON
