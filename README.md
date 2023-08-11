@@ -26,6 +26,8 @@ This application can be used to manipulate a collection of cosmetic products by 
  <img alt="Screenshot4" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image4.png">
 </picture>
 
+5. The product collection after removal
+
 <picture>
  <img alt="Screenshot5" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image5.png">
 </picture>
