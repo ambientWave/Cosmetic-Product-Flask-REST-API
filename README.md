@@ -1,4 +1,5 @@
 # Interacting with a Collection of Cosmetic Products Using Flask and REST API
+This application can be used to manipulate a collection of cosmetic products by applying the CRUD operations through REST API. This is achieved using Flask framework to expose specific endpoints.
 
 ## Screenshots
 ![Image1](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png)
@@ -12,12 +13,13 @@
 </picture>
 
 ## Instructions for Running the Application
-
-
+1. clone the repository
+2. (optional but preferable) create a virtual environment
+3. install the dependencies in the requirements.txt file using pip
+5. open a new terminal and make sure that you are in the directory of the cloned repository
+6. run the app using the following command:
 
 ### `flask run`
-
-Once.
 
 ## Technology
 - Python, Werkzeug, Flask
