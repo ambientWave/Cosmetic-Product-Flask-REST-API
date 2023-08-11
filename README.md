@@ -3,7 +3,7 @@ This application can be used to manipulate a collection of cosmetic products by 
 
 ## Screenshots
 The JSON returned by the backend app after an HTTP request using GET method\
-
+k
 <picture>
  <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png">
 </picture>
