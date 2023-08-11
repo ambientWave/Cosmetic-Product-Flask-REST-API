@@ -2,7 +2,7 @@
 This application can be used to manipulate a collection of cosmetic products by applying the CRUD operations through REST API. This is achieved using Flask framework to expose specific endpoints and one of three database engines (SQLite, PostgreSQL or MongoDB).
 
 ## Screenshots
-The JSON returned by the backend app after an HTTP request using GET method/
+The JSON returned by the backend app after an HTTP request using GET method\
 
 <picture>
  <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png">
