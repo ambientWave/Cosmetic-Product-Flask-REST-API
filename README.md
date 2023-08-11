@@ -1,4 +1,4 @@
-# Cosmetic-Product-Flask-REST-API
+# Interacting with a Collection of Cosmetic Products Using Flask and REST API
 
 ## Screenshots
 ![Image1](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image1.png)
