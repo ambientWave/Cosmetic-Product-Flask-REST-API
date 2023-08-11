@@ -6,3 +6,6 @@
 ![Image3](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image3.png)
 ![Image4](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image4.png)
 ![Image5](https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image5.png)
+
+## Technology
+- Python, werkzeug, flask
