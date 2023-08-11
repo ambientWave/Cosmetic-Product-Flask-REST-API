@@ -14,9 +14,13 @@ This application can be used to manipulate a collection of cosmetic products by 
  <img alt="Screenshot2" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image2.png">
 </picture>
 
+3. The product collection after addition
+
 <picture>
  <img alt="Screenshot3" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image3.png">
 </picture>
+
+4. One can remove an item by sending a HTTP request using DELETE method. Here's the response after sending the request using cURL CLI utility
 
 <picture>
  <img alt="Screenshot4" src="https://raw.githubusercontent.com/ambientWave/Cosmetic-Product-Flask-REST-API/main/Image4.png">
